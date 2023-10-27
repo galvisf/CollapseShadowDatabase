@@ -1,0 +1,66 @@
+﻿Building_name,Event,Event_year,Structural_system,No_stories_above_grade,No_stories_below_grade,Approx_building_height_ft,Structural_irregularities_Vulnerabilities,Type_of_collapse,Approx_max_collapse_distance_ft,Approx_max_debris_distance_ft
+Apartment building in Dali,"Chi Chi, Taiwan EQ",1999,RC moment frame + infill masonry walls,10,0,100,Soft story,Story mechanism + monolithic,100,?
+Apartment building in Fengyuan,"Chi Chi, Taiwan EQ",1999,RC moment frame + infill masonry walls,11,0,110,Soft story,Story mechanism + monolithic,110,?
+11-story building in Shingjuang,"Chi Chi, Taiwan EQ",1999,RC moment frame + infill masonry walls,11,0,110,Soft story,Story mechanism,10,?
+Condo in Dung-shr,"Chi Chi, Taiwan EQ",1999,RC moment frame + infill masonry walls,8,0,80,Soft story,Story mechanism,15,?
+Assembly building,"Armenia, Colombia",1999,RC columns with infill masonry walls,4,0,40,Vertical irregularities and pounding,Monolithic,30,45
+WTC 1 & 2,9/11 Terrorist Attacks,2001,Steel perforated exterior steel bearing wall & frame core,110,0,1386,-,Banana peel,700,1500
+WTC 7,9/11 Terrorist Attacks,2001,Perimeter Moment Frames,49,0,749,Transfer Girders,Implosion,0,70
+Windsor Tower,"Building Fire, Madrid",2005,Concrete Core + Steel Frame,29,0,348,Lack of fire sprinkler,Pancake,70,100
+Alto Rio,"Maule, Chile EQ",2010,RC shear walls,15,0,150,Soft story,Story mechanism + monolithic,150,?
+Torre O’Higgins 241,"Maule, Chile EQ",2010,RC shear walls,21,0,175,Vertical geometry irregularities,Story mechanism,0,?
+Weiguan Jinlong Building,Southern Taiwan EQ,2016,RC moment frame,16,1,165,Soft story,Story mechanism + monolithic,130,?
+Plasco Building,"Building Fire, Tehran",2017,Steel frame and truss,15,0,138,Specialty trusses,Pancake,50,70
+Calz. de Tlalpan 2050,"Mexico City, Mexico EQ",2017,Mixed,1,0,17,Long span,Sidesway,?,?
+Patricio Sanz 37,"Mexico City, Mexico EQ",2017,RC columns and flat slab,6,0,54,Soft story and Non-ductile detailing,Story mechanism,9,18
+Magnolia 76,"Mexico City, Mexico EQ",2017,Unreinforced masonry,2,0,20,Non-ductile detailing,Sidesway,9,27
+Mina 16,"Mexico City, Mexico EQ",2017,Unreinforced masonry,2,0,20,Non-ductile detailing,Sidesway,9,27
+Amsterdam 107,"Mexico City, Mexico EQ",2017,RC columns and flat slab,9,0,83,Non-ductile detailing,Pancake,18,36
+Paseo de las Galias 47,"Mexico City, Mexico EQ",2017,RC columns and flat slab,5,0,47,Soft-story and Non-ductile detailing,Story mechanism,9,18
+Rancho de los Arcos 32,"Mexico City, Mexico EQ",2017,Confined masonry walls,6,0,54,-,Sidesway,45,60
+Concepción Beistegui 1503,"Mexico City, Mexico EQ",2017,RC columns and flat slab,5,0,47,Torsional irregularity (corner building),Partial pancake,18,36
+Niños Heroes 173,"Mexico City, Mexico EQ",2017,RC columns and flat slab,5,0,47,Torsional irregularity (corner building),Pancake,27,54
+Rancho Tamboreo 11b y 19,"Mexico City, Mexico EQ",2017,RC columns and flat slab,3,0,29,Soft-story and Non-ductile detailing,Pancake,9,27
+Viaducto. Pdte. Miguel Alemán 106,"Mexico City, Mexico EQ",2017,RC columns and flat slab,6,0,56,-,Pancake,27,45
+General Emiliano Zapata 56,"Mexico City, Mexico EQ",2017,RC columns and flat slab,6,0,63,-,Partial pancake,18,36
+Av. Álvaro Obregón 286,"Mexico City, Mexico EQ",2017,RC columns and flat slab,7,0,63,Non-ductile detailing,Pancake,9,18
+Medellín 176,"Mexico City, Mexico EQ",2017,RC columns and flat slab,6,0,56,Soft-story and torsional irregularity,Pancake,27,45
+Avenida Santa Ana 300 Ex-Ejido de San,"Mexico City, Mexico EQ",2017,RC frames,3,0,29,Soft-story and Non-ductile detailing,Story mechanism,9,18
+Bretaña 90,"Mexico City, Mexico EQ",2017,Confined masonry walls,6,0,54,Soft-story and Non-ductile detailing,Pancake,36,60
+Multifamiliar Tlalpan,"Mexico City, Mexico EQ",2017,RC columns (first story) and Confined masonry walls-hollow bricks (upper stories),6,0,56,Non-ductile detailing,Pancake,18,36
+Edimburgo 4,"Mexico City, Mexico EQ",2017,RC columns and flat slab,8,0,74,Non-ductile detailing,Pancake + Sidesway,36,60
+Puebla 282,"Mexico City, Mexico EQ",2017,RC columns and flat slab,4,0,38,Non-ductile detailing,Pancake,9,27
+Balsas 18,"Mexico City, Mexico EQ",2017,RC columns and flat slab,5,0,47,Soft-story and Non-ductile detailing,Story mechanism,6,12
+Av. Sonora 149,"Mexico City, Mexico EQ",2017,RC columns and flat slab,8,0,74,"Soft-story, pounding and Non-ductile detailing",Story mechanism,0,6
+Peten 915,"Mexico City, Mexico EQ",2017,RC columns and flat slab,8,0,74,Soft-story and torsional irregularity,Pancake,36,60
+Enrique Rebsamen 241,"Mexico City, Mexico EQ",2017,RC columns and flat slab,5,0,47,Soft-story and Non-ductile detailing,Story mechanism,0,6
+Coahuila 10,"Mexico City, Mexico EQ",2017,RC columns and flat slab,5,0,47,Soft-story and Non-ductile detailing,Story mechanism + pancake,27,60
+Escocia 04,"Mexico City, Mexico EQ",2017,RC columns and flat slab,7,0,65,Soft-story and Non-ductile detailing,Pancake,9,27
+Saratoga 714,"Mexico City, Mexico EQ",2017,RC columns and flat slab,5,0,47,Soft-story and Non-ductile detailing,Story mechanism,3,12
+Calle Bolivar 168,"Mexico City, Mexico EQ",2017,RC frames,5,0,53,Soft-story and Non-ductile detailing,Pancake,18,36
+Amsterdam 25,"Mexico City, Mexico EQ",2017,Confined masonry walls,5,0,47,Soft-story and Non-ductile detailing,Pancake,0,0
+Calzada del Hueso 480,"Mexico City, Mexico EQ",2017,RC columns and flat slab,2,0,24,Non-ductile detailing and torsional irregularity,Pancake,9,18
+Coquimbo 911,"Mexico City, Mexico EQ",2017,RC columns and flat slab,8,0,72,Soft-story,Story mechanism,3,15
+"Calle 323, 655","Mexico City, Mexico EQ",2017,Confined masonry walls,2,0,18,torsional irregularity and Non-ductile detailing,Sidesway,6,12
+Cuauhtémoc 75,"Mexico City, Mexico EQ",2017,RC columns and flat slab,3,0,39,Non-ductile detailing,Banana peel,3,12
+Av. Miramontes 2747,"Mexico City, Mexico EQ",2017,RC columns and flat slab,3,0,29,torsional irregularity and Non-ductile detailing,Pancake,3,12
+Calzada San Antonio Abad 122,"Mexico City, Mexico EQ",2017,RC columns and flat slab,9,0,90,Non-ductile detailing,Story mechanism,0,6
+Lerdo 178,"Mexico City, Mexico EQ",2017,Unreinforced masonry,1,0,35,Non-ductile detailing,Implosion,0,0
+Diaz Mirón esq Sabino,"Mexico City, Mexico EQ",2017,Unreinforced masonry,1,0,10,Non-ductile detailing,Banana peel,3,12
+Av. México 1,"Mexico City, Mexico EQ",2017,Unreinforced masonry,1,0,35,Non-ductile detailing,Banana peel,3,12
+Av México Poniente 47,"Mexico City, Mexico EQ",2017,RC frames,3,0,29,Non-ductile detailing,Pancake,6,36
+Escocia 33,"Mexico City, Mexico EQ",2017,RC columns and flat slab,2,0,20,Non-ductile detailing,Rubble Pile,9,16
+Escocia 29,"Mexico City, Mexico EQ",2017,Confined masonry walls,5,0,47,Non-ductile detailing,Rubble Pile,6,?
+Tokio 517,"Mexico City, Mexico EQ",2017,RC columns and flat slab,5,0,47,Non-ductile detailing,Story mechanism,6,20
+Chihuahua 110 esquina Orizaba,"Mexico City, Mexico EQ",2017,Unreinforced masonry,3,0,29,Non-ductile detailing,Partial pancake,9,16
+Yun Men Tsui Ti Complex,"Hualien, Taiwan EQ",2018,RC moment frame,12,0,130,Soft story,Story mechanism,15,?
+Grand Marshal Hotel,"Hualien, Taiwan EQ",2018,RC moment frame,11,0,130,Soft story,Story mechanism,5,25
+Platinum Twin Star ,"Hualien, Taiwan EQ",2018,RC moment frame,7,0,85,Soft story,Story mechanism,10,?
+Wu-ju-wu-shu Building,"Hualien, Taiwan EQ",2018,RC moment frame,9,0,85,Soft story,Story mechanism,10,10
+PCG building,"Christchurch, New Zealand EQs",2010-2011,RC frame with a RC wall,5,0,65,Non-ductile detailing,Pancake,30,75
+CTV building,"Christchurch, New Zealand EQs",2010-2011,Precast RC frame with a RC core and RC coupled wall,6,0,65,-,Rubble Pile or Implosion,30,75
+Antakya Building,Tukey-Syria EQ,2023,RC shear wall and frame system,6,0,96,"Inadequate shear confinement and resistance, soft story",Monolithic,76,96
+Iskenderun Building,Tukey-Syria EQ,2023,RC shear wall and frame system,4,0,48,Liquefaction,Overturning,36,36
+Antakya URM Building,Tukey-Syria EQ,2023,URM,2,0,24,,Rubble Pile,?,
+Kirikan Industrial Building,Tukey-Syria EQ,2023,Precast concrete,2,0,24,,Rubble Pile,6,12
+Renaissance Building,Tukey-Syria EQ,2023,RC core walls with masonry infill,12,0,144,Soft Story,Monolithic,144,156
